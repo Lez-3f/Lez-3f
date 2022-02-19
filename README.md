@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋
+ -->
 <!--
 **Lez-3f/Lez-3f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+- 🔥 My major is Mathematical Basic Science + Electrical Engineering and its Automation.
+- ⚡ I'm intersting in Embedded Development, Data Science, Deep learining ...
+- 🌱 My repos reconded my learning process and outcomes.
+- 📫 How to reach me: ErlerZhu@gmail.com
