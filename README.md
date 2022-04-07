@@ -42,7 +42,7 @@ Include my private repos and others' repos.
 - [learn python: credit analysis](https://github.com/Lez-3f/CreditAnanlysis)
 - [learn datastucture in c/c++: power system analysis](https://github.com/Lez-3f/PowerSystemAnalysis)
 - [learn qt: Chinese animal chess](https://github.com/Lez-3f/ChineseAnimalChess)
-#### Electronic technology
+#### Electronic Technology
 - [Analog electronics and digital electronics labs](https://github.com/Lez-3f/ElectronicExperiments)
 #### AI
 - [cs231-assignments](https://github.com/Lez-3f/CS231n-Assignments)
