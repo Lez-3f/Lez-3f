@@ -38,7 +38,7 @@ Include my private repos and others' repos.
 - [Learn stm32](https://github.com/Lez-3f/THU-EDC-STM32tutorial)
 - [THU-EDC2021](https://github.com/Lez-3f/THU-EDC2021-BugCar)
 - [THU-TI-Light2021](https://github.com/Lez-3f/TILight-TrolleyTracking)
-#### Program practice
+#### Programing practice
 - [learn python: credit analysis](https://github.com/Lez-3f/CreditAnanlysis)
 - [learn datastucture in c/c++: power system analysis](https://github.com/Lez-3f/PowerSystemAnalysis)
 - [learn qt: Chinese animal chess](https://github.com/Lez-3f/ChineseAnimalChess)
