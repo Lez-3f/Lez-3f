@@ -33,25 +33,25 @@ Include my private repos and others' repos.
 #### Physics
 - [Physics lab reports](https://github.com/Lez-3f/PhylabReportsByLATEX)
 #### MCU Programing
-- [learn MCU](https://github.com/Lez-3f/IntroductionToMCU-LabCodes)
+- [Learn MCU](https://github.com/Lez-3f/IntroductionToMCU-LabCodes)
 - [Elctric organ by MSP430](https://github.com/Lez-3f/ElectricOrganByMSP430)
 - [Learn STM32](https://github.com/Lez-3f/THU-EDC-STM32tutorial)
 - [THU-EDC2021](https://github.com/Lez-3f/THU-EDC2021-BugCar)
 - [THU-TI-Light2021](https://github.com/Lez-3f/TILight-TrolleyTracking)
 #### Programing practice
-- [learn python: credit analysis](https://github.com/Lez-3f/CreditAnanlysis)
-- [learn datastucture in c/c++: power system analysis](https://github.com/Lez-3f/PowerSystemAnalysis)
-- [learn qt: Chinese animal chess](https://github.com/Lez-3f/ChineseAnimalChess)
+- [Learn python: credit analysis](https://github.com/Lez-3f/CreditAnanlysis)
+- [Learn datastucture in c/c++: power system analysis](https://github.com/Lez-3f/PowerSystemAnalysis)
+- [Learn qt: Chinese animal chess](https://github.com/Lez-3f/ChineseAnimalChess)
 #### Electronic Technology
 - [Analog electronics and digital electronics labs](https://github.com/Lez-3f/ElectronicExperiments)
 #### AI
-- [cs231-assignments](https://github.com/Lez-3f/CS231n-Assignments)
+- [SU-CS231n-assignments](https://github.com/Lez-3f/CS231n-Assignments)
 - [NTU-ML2021](https://github.com/Lez-3f/NTU-MLDL-Labs)
 - [THU-IAI-search](https://github.com/Lez-3f/IAI-Search)
 #### Data Structure
 - [THU-DSA-CST](https://github.com/Lez-3f/DSA-CST-Tasks)
 #### Computer System
 ##### Asembly
-- [assembly course labs](https://github.com/Lez-3f/AssemblyExperiments)
+- [Assembly course labs](https://github.com/Lez-3f/AssemblyExperiments)
 ##### Computer Architecture
-- [ucb-cs61c-su2020-labs](https://github.com/Lez-3f/UCB-CS61c-su2020)
+- [UCB-CS61c-su2020-labs](https://github.com/Lez-3f/UCB-CS61c-su2020)
