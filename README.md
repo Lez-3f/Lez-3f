@@ -34,8 +34,8 @@ Include my private repos and others' repos.
 - [Physics lab reports](https://github.com/Lez-3f/PhylabReportsByLATEX)
 #### MCU Programing
 - [learn MCU](https://github.com/Lez-3f/IntroductionToMCU-LabCodes)
-- [Elctric organ by msp430](https://github.com/Lez-3f/ElectricOrganByMSP430)
-- [Learn stm32](https://github.com/Lez-3f/THU-EDC-STM32tutorial)
+- [Elctric organ by MSP430](https://github.com/Lez-3f/ElectricOrganByMSP430)
+- [Learn STM32](https://github.com/Lez-3f/THU-EDC-STM32tutorial)
 - [THU-EDC2021](https://github.com/Lez-3f/THU-EDC2021-BugCar)
 - [THU-TI-Light2021](https://github.com/Lez-3f/TILight-TrolleyTracking)
 #### Programing practice
