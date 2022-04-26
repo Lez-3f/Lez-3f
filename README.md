@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>)
 
 ### Repos Index
-Include my private repos and others' repos.
+Include my private repos and other people' repos.
 #### Github Page
 - [My page](https://github.com/Lez-3f/Lez-3f.github.io) 
 #### Participating projects
