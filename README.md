@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🔥 My major is Mathematical Basic Science + Electrical Engineering and its Automation.
-- ⚡ I'm intersting in Embedded Development, Data Science, Deep learining ...
+- ⚡ I'm intersting in Embedded Development, Reinforcemrnt learining ...
 - 🌱 My repos reconded my learning process and outcomes.
 - 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>)
 
