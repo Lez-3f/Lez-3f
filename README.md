@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
+<!-- ### About Me
 - 🔥 My major is Mathematical Basic Science + Electrical Engineering and its Automation.
 - ⚡ I'm intersting in Embedded Development, Reinforcemrnt learining ...
 - 🌱 My repos reconded my learning process and outcomes.
-- 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>)
+- 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>) -->
 
 ### Repos Index
 Include my private repos and other people' repos.
