@@ -45,7 +45,7 @@ Include my private repos and other people' repos.
 #### Electronic Technology
 - [Analog electronics and digital electronics labs](https://github.com/Lez-3f/ElectronicExperiments)
 #### AI
-- [SU-CS231n-assignments](https://github.com/Lez-3f/CS231n-Assignments)
+<!-- - [SU-CS231n-assignments](https://github.com/Lez-3f/CS231n-Assignments) -->
 - [NTU-ML2021](https://github.com/Lez-3f/NTU-MLDL-Labs)
 - [THU-IAI-search](https://github.com/Lez-3f/IAI-Search)
 #### Data Structure
@@ -54,4 +54,4 @@ Include my private repos and other people' repos.
 ##### Asembly
 - [Assembly course labs](https://github.com/Lez-3f/AssemblyExperiments)
 ##### Computer Architecture
-- [UCB-CS61c-su2020-labs](https://github.com/Lez-3f/UCB-CS61c-su2020)
+<!-- - [UCB-CS61c-su2020-labs](https://github.com/Lez-3f/UCB-CS61c-su2020) -->
