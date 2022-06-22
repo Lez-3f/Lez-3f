@@ -48,6 +48,8 @@ Include my private repos and other people' repos.
 - [THU-IAI-search](https://github.com/Lez-3f/IAI-Search)
 #### Data Structure
 - [THU-DSA-CST](https://github.com/Lez-3f/DSA-CST-Tasks)
+#### Computer Graphics
+- [GAMES101](https://github.com/Lez-3f/GAMES101-Assignments)
 #### Computer System
 ##### Asembly
 - [Assembly course labs](https://github.com/Lez-3f/AssemblyExperiments)
