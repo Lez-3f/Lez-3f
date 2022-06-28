@@ -37,10 +37,10 @@ Include my private repos and other people' repos.
 - [THU-EDC2021](https://github.com/Lez-3f/THU-EDC2021-BugCar)
 - [THU-TI-Light2021](https://github.com/Lez-3f/TILight-TrolleyTracking)
 #### Programing practice
-- [Learn python: credit analysis](https://github.com/Lez-3f/CreditAnanlysis)
-- [Learn datastucture in c/c++: power system analysis](https://github.com/Lez-3f/PowerSystemAnalysis)
+- [Learn python: Credit analysis](https://github.com/Lez-3f/CreditAnanlysis)
+- [Learn datastucture in c/c++: Power system analysis](https://github.com/Lez-3f/PowerSystemAnalysis)
 - [Learn qt: Chinese animal chess](https://github.com/Lez-3f/ChineseAnimalChess)
-- [learn db design](https://github.com/Lez-3f/DB-Project)
+- [learn db design: Sports facilities management system](https://github.com/Lez-3f/DB-Project)
 #### Electronic Technology
 - [Analog electronics and digital electronics labs](https://github.com/Lez-3f/ElectronicExperiments)
 #### AI
