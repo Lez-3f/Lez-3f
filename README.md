@@ -40,6 +40,7 @@ Include my private repos and other people' repos.
 - [Learn python: credit analysis](https://github.com/Lez-3f/CreditAnanlysis)
 - [Learn datastucture in c/c++: power system analysis](https://github.com/Lez-3f/PowerSystemAnalysis)
 - [Learn qt: Chinese animal chess](https://github.com/Lez-3f/ChineseAnimalChess)
+- [learn db design](https://github.com/Lez-3f/DB-Project)
 #### Electronic Technology
 - [Analog electronics and digital electronics labs](https://github.com/Lez-3f/ElectronicExperiments)
 #### AI
