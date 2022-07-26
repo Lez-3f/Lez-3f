@@ -43,6 +43,8 @@ Include my private repos and other people' repos.
 - [Learn db design: Sports facilities management system](https://github.com/Lez-3f/DB-Project)
 #### Electronic Technology
 - [Analog electronics and digital electronics labs](https://github.com/Lez-3f/ElectronicExperiments)
+- [simple UART in FPGA](https://github.com/Lez-3f/EDP-UART)
+- [Signal Generator & Oscilloscope by STM32](https://github.com/Lez-3f/SignalGenerator-Oscilloscope)
 #### AI
 <!-- - [SU-CS231n-assignments](https://github.com/Lez-3f/CS231n-Assignments) -->
 - [NTU-ML2021](https://github.com/Lez-3f/NTU-MLDL-Labs)
