@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 My repos reconded my learning process and outcomes.
 - 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lez-3f&layout=compact&hide=javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lez-3f&layout=compact&hide=c,javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Repos Index
 Include my private repos and other people' repos.
