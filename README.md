@@ -59,4 +59,4 @@ Include my private repos and other people' repos.
 ##### Asembly
 - [Assembly course labs](https://github.com/Lez-3f/AssemblyExperiments)
 ##### Computer Architecture
-<!-- - [UCB-CS61c-su2020-labs](https://github.com/Lez-3f/UCB-CS61c-su2020) -->
+- [UCB-CS61c-su2020-labs](https://github.com/Lez-3f/UCB-CS61c-Labs)
