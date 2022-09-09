@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - 🔥 My major is Mathematical Basic Science + Electrical Engineering and its Automation.
 - ⚡ I'm intersting in Embedded Development, Reinforcemrnt learining ...
 - 🌱 My repos reconded my learning process and outcomes.
-- 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>) 
+- 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lez-3f&layout=compact&hide=assembly,javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ### Repos Index
 Include my private repos and other people' repos.
 #### Github Page
