@@ -49,7 +49,8 @@ Include my private repos and other people' repos.
 - [simple UART in FPGA](https://github.com/Lez-3f/EDP-UART)
 - [Signal Generator & Oscilloscope by STM32](https://github.com/Lez-3f/SignalGenerator-Oscilloscope)
 #### AI
-<!-- - [SU-CS231n-assignments](https://github.com/Lez-3f/CS231n-Assignments) -->
+-->
+<!-- - [SU-CS231n-assignments](https://github.com/Lez-3f/CS231n-Assignments) --><!--
 - [NTU-ML2021](https://github.com/Lez-3f/NTU-MLDL-Labs)
 - [THU-IAI-search](https://github.com/Lez-3f/IAI-Search)
 #### Data Structure
