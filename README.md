@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ### About Me
-- 🔥 My major is Mathematical Basic Science + Electrical Engineering and its Automation.
-- ⚡ I'm intersting in Embedded Development, Reinforcemrnt learining ...
-- 🌱 My repos reconded my learning process and outcomes.
-- 📫 How to reach me: [MyEmail](<erlerzhu@gmail.com>) -->
+### About Me
+- 🔥 I'm majoring in Physics + Electrical Engineering. 
+- ⚡ I'm interested in Machine Learning(especially Reinforcement Learning) and its Advanced Applications(e.g. LLMs). 
+- 📫 How to reach me: "erlerzhu[AT]gmail[DOT]com".replace("[AT]", "@").replace("[DOT]", ".")
+  <!-- 😁 Sports🏐⚽🏀🏸 & Music🎤🎧 make me happy~ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lez-3f&layout=compact&hide=assembly,javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
