@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔥 I'm majoring in Physics + Electrical Engineering.
 - 👨‍💻 I'm a research intern at THU-CoAI and ZhipuAI.
 - ⚡ I'm interested in Machine Learning(especially Reinforcement Learning) and its Advanced Applications(e.g. LLMs). 
-- 📫 How to reach me: "erlerzhu[AT]gmail[DOT]com".replace("[AT]", "@").replace("[DOT]", ".")
+- 📫 How to reach me: {"email": "erlerzhu[AT]gmail[DOT]com".replace("[AT]", "@").replace("[DOT]", "."), "wechat-id": "zel-0271"}
   <!-- 😁 Sports🏐⚽🏀🏸 & Music🎤🎧 make me happy~ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lez-3f&layout=compact&hide=assembly,javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
