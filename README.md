@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 🔥 I'm majoring in Physics + Electrical Engineering. 
+- 🔥 I'm majoring in Physics + Electrical Engineering.
+- 👨‍💻 I'm a research intern at THU-CoAI and ZhipuAI.
 - ⚡ I'm interested in Machine Learning(especially Reinforcement Learning) and its Advanced Applications(e.g. LLMs). 
 - 📫 How to reach me: "erlerzhu[AT]gmail[DOT]com".replace("[AT]", "@").replace("[DOT]", ".")
   <!-- 😁 Sports🏐⚽🏀🏸 & Music🎤🎧 make me happy~ -->
